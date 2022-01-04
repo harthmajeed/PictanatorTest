@@ -1,5 +1,5 @@
 # Pictanator Test
-This is a term project from the "Human Computer Interaction" university course back in 2017.
+This is a term project from the "Human Computer Interaction" university course in 2017.
 
 The objective of this project was to come up with a new password concept, and test it's development with feedback from students, and analyze it's performance, ease, and its practical potential of being used.
 
